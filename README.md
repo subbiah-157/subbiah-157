@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SUBBIAH%20MUTHU%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20CLOUD&descAlignY=58&descSize=16"/>
+  <img src="./hero-banner.jpg" alt="Subbiah Muthu M - Hero Banner" width="100%" />
+  
+  <br/><br/>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+MERN+%26+Next.js+Developer+%E2%9A%A1;AI+Integration+%26+Cloud+Deployment+%E2%98%81%EF%B8%8F;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%9A%80" alt="Typing SVG" />
   
