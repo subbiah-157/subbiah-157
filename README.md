@@ -5,6 +5,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Development+Journey+%F0%9F%9A%80;Software+Engineer+%7C+MERN+%26+Next.js;Building+AI-Powered+Applications+%E2%9A%A1;Turning+Ideas+into+Real+Projects+%E2%9C%A8" alt="Typing SVG" />
   
+  <br/>
   
   <img src="https://img.shields.io/badge/EDUCATION-B.E.%20CS%20%26%20Tech-6D28D9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ROLE-Software%20Engineer-7C3AED?style=for-the-badge"/>
