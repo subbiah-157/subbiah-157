@@ -48,7 +48,7 @@ Passionate **Software Engineer** experienced in building and deploying scalable 
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,py" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,cs" alt="Languages" />
 </p>
 
 ### 🌐 Frontend Development
