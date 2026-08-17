@@ -87,7 +87,7 @@ Passionate **Software Engineer** experienced in building and deploying scalable 
 - Implemented responsive UI, SEO optimizations, image delivery networks, and high-performance server rendering.
 - Collaborated directly with client teams to deliver custom business workflows and cloud hosting maintenance.
 
-### 🎓 **Associate System Engineer (Intern)** — *IBM / Edunet / AICTE*
+### 🎓 **Frontend Developer (Intern)** — *IBM / Edunet / AICTE*
 > **Jun 2023 – July 2023**
 - 6-week intensive internship focusing on Front-End Web Development, responsive grid layouts, and JavaScript standard practices.
 
