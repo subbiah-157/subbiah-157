@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=210&section=header&text=Subbiah%20Muthu%20M&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0A192F&height=210&section=header&text=Subbiah%20Muthu%20M&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" style="border-radius: 10px;" />
+
+  <br/><br/>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Development+Journey+%F0%9F%9A%80;Software+Engineer+%7C+MERN+%26+Next.js;Building+AI-Powered+Applications+%E2%9A%A1;Turning+Ideas+into+Real+Projects+%E2%9C%A8" alt="Typing SVG" />
   
