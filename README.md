@@ -134,14 +134,14 @@ Passionate **Software Engineer** experienced in building and deploying scalable 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subbiah-157&show_icons=true&theme=radial&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbiah-157&layout=compact&theme=radial&hide_border=true&title_color=A78BFA&text_color=ffffff&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=subbiah-157&show_icons=true&theme=radial&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subbiah-157&layout=compact&theme=radial&hide_border=true&title_color=A78BFA&text_color=ffffff&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subbiah-157&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subbiah-157&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="98%" />
 </div>
 
 ---
