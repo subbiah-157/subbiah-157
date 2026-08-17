@@ -70,6 +70,16 @@ Passionate **Software Engineer** experienced in building and deploying scalable 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,eclipse" alt="Tools" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=sparkles&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Lovable-FF4B4B?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable"/>
+  <img src="https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Flow"/>
+  <img src="https://img.shields.io/badge/BLACKBOX_AI-000000?style=for-the-badge&logo=square&logoColor=white" alt="Blackbox AI"/>
+  <img src="https://img.shields.io/badge/Stitch-00C7B7?style=for-the-badge&logo=bolt&logoColor=white" alt="Stitch"/>
+</p>
 
 ---
 
