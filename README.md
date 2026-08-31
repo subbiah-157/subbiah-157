@@ -134,7 +134,9 @@ Passionate **Software Engineer** experienced in building and deploying scalable 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subbiah-157&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+  <img src="https://ghchart.rshah.org/7C3AED/subbiah-157" alt="Subbiah's GitHub Contribution Graph" width="100%" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=subbiah-157&theme=purple-dark&hide_border=true" alt="GitHub Streak & Activity Stats" width="98%" />
 </div>
 
 ---
